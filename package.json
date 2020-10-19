@@ -1,0 +1,23 @@
+{
+  "name": "fcmlly",
+  "version": "1.0.0",
+  "description": "An integration for Google FCM and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fcm",
+    "push",
+    "notification",
+    "push_notification",
+    "google",
+    "cloud",
+    "messaging"
+  ],
+  "author": "Amin Bagheri",
+  "license": "ISC",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
