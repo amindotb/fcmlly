@@ -67,3 +67,5 @@ class Fcmlly {
     //     return await this._send(req);
     // }
 }
+
+module.exports = Fcmlly
