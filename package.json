@@ -19,5 +19,14 @@
   "license": "ISC",
   "dependencies": {
     "unirest": "^0.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amindotb/fcmlly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amindotb/fcmlly/issues"
+  },
+  "homepage": "https://github.com/amindotb/fcmlly#readme"
 }
