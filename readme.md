@@ -4,7 +4,7 @@ Best way to send your push notifications.
 [![Thanks to brentclouse for this gif](https://cdn.dribbble.com/users/187497/screenshots/9363790/media/34f0f653b8f6fa911bd5ccf8ec9e4bab.gif "Thanks to brentclouse")](https://dribbble.com/brentclouse "Thanks to brentclouse for this gif")
 I accept any contributes with open arms \\./
 
-### Instalation
+### Installation
 ------------
  ```
 npm i fcmlly
