@@ -49,6 +49,7 @@ fcmlly.pushToUser('user fcm token', 'youe title text', 'your body text').then((r
 * Push to all users in a topic
 ```.pushToTopic('topic name', 'title', 'body') ```        
 
-
+* Subscribe a user to a topic
+```.subscribeToTopic('user FCM token', 'topic name') ```    
 
 ![](https://img.shields.io/github/stars/amindotb/fcmlly.svg) ![](https://img.shields.io/github/forks/amindotb/fcmlly.svg) ![](https://img.shields.io/github/tag/amindotb/fcmlly.svg) ![](https://img.shields.io/github/release/amindotb/fcmlly.svg) ![](https://img.shields.io/github/issues/amindotb/fcmlly.svg)
