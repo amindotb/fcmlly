@@ -37,7 +37,7 @@ class Fcmlly {
                 throw Error('Your API key is incorrect');
 
             unirest
-            .get(GOOGLE_FCM_SUBSCRIBE_ENDPOINT + token + "/rel/topics/" + topic)
+            .post(GOOGLE_FCM_SUBSCRIBE_ENDPOINT + token + "/rel/topics/" + topic)
             .headers({'Authorization': `key=${ this.APIKey }`})
             .then((response) => {
                 resolve(response.raw_body);
